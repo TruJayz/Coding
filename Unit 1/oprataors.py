@@ -20,3 +20,9 @@ age = 16
 
 age += 1.5
 print(age)
+
+print(not(3 > 1 and "Jalen" == "jalen" )) # False 
+# The NOT operator will give the oppsite result.
+# the NOT opreator flips the result.
+
+print(not(algbraPassed=TRUE and history Passed ==TRUE)

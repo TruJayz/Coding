@@ -8,8 +8,8 @@ def bnbRefund(accountNumber, refundAmount):
 #Step 2: Fuction call (invocation)
 bnbRefund(19292929, 3000) # arugments are real data
 
-def name_bday(name, bday)
-    print('My name is Jalen' + Jalen + ' My bady is ' + Jan 14)
+def name_bday(name, bday):
+   print('My name is Jalen' + 'Jalen + ' My bady is ' + Jan 14)
 
 
     name_bday('Jan', 'sep, 3rd')
@@ -29,4 +29,21 @@ def dollarConverter(dollar);
     der dollarConverter(dollar):
     pennies = dollar * 100
     print
+
+
+def (Area of triangel)
+int length = 20
+int width = 15
+int height = 23
+print(20 * 15 *23 )
+
+def():
+a = input('20:')
+b = input('15:')
+c = input('23:')
+print()
+
+
+
+
 

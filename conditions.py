@@ -35,16 +35,40 @@ elif down == 3 yards == 6:
 print('')
 
 
-# make a function that will check the weather
 
 
 
-def permitchecker(16):
+
+def permitchecker(age):
   if age  >=16:
    print("congrats, you can begin learing to dive")
 else:
 print("sorry, your not old enough yet")
 
-permitcheck(16)
+permitchecker(15)
 
+
+
+# ClassWork 9/25/25
+
+def positive(number):
+   if number >= 1:
+   print("This number is positive")
+else:
+def negative(number):
+   if number >= -1:
+print("This number is negative")
+
+positive(1)
+
+
+
+
+
+def gradechecker(grade):
+   if grade == '80'
+   print("what is this grade")
+   elif
+   print(grade == '80')
+   print()
 

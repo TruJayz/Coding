@@ -24,11 +24,13 @@ print(30/ 232)
 
 # 4. Explain the difference between the = operator and the == operator.
 # Please write your response in complete sentences.
-'The == oprataor is equal than and = oprataor is Not equal than'
-
+'The == oprataor is equal than '
+'The single = oprataor is used to assign a value'
 # 5. Write code that takes a user’s input (as a string), 
 # casts it to a float, and prints the result multiplied by 2.
-print(float(2)* 8)
+number = input("please enter a number as a string")
+neQata = float(number)
+print(neQuta * 2)
 
 # 6. What is the difference between a parameter and an argument?
 # Please write your response in complete sentences.
@@ -39,18 +41,22 @@ print(float(2)* 8)
 # 7. What is the difference between a function definition 
 # and a function invocation? # Please write your response in 
 # complete sentences.
-'The difference is that function invaoation'
+'The difference is that function invaoation decribes what we want it to do'
+'A fuction invocation is calling and using the fuction.'
 
 # 8. Why are functions useful in programming? Provide at least two reasons 
 # and write your reasons in in complete sentences.
+'fuction code instrustions are repeatable they are also useful because we can code that run only when we want.'
 
 # 9. Write a code block that uses the appropriate operator for each scenario
 x = 15
 y = 20.
 # x is greater than y
+x > y
 # x and 15 are both the same
+x == 15
 # x and y are not the same`
-
+x 
 # 10. Create a function that will take in two values. Your function should
 # take in 1 value as a parameter, and the other value should be passed in by the
 # user through the terminal. Your function should compare if the number passed in by

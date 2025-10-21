@@ -6,3 +6,15 @@
 
 "Repositories - A section of github where people can share and view cide in read only"
 
+
+
+
+
+21/10/25
+
+
+# create a fuction
+# take in user input
+# keep adding numbers to lists with a loop
+# if the word entered is quit stop the loop
+# print the list of numbers

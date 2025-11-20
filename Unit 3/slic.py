@@ -48,6 +48,11 @@ sighup()
 
 
 def math():
-        a = input('enter a number:')
-        b = 10
-        print(a + b)
+
+    int x = 15;
+int y = 7;
+int sum = x + y;
+
+
+
+

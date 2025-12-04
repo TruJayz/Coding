@@ -6,7 +6,7 @@ def Quiz():
 
     print("Question 1")
     print("Who is the best character in Bluelock")
-    selection = input()
+    selection = input('')
     if selection == 'a':
      print("Nagi")
     if selection == 'b':
@@ -33,4 +33,3 @@ def Quiz():
 
 
             Quiz()
-
